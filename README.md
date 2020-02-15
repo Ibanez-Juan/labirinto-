@@ -1,2 +1,0 @@
-# labirinto-
-Percorrer um labirinto 
